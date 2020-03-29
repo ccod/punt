@@ -1,0 +1,9 @@
+@startuml
+!define BASEPATH ..
+!include BASEPATH/globals/stylesheet.iuml
+
+[*] --> State1
+State1--> [*]
+State1 : testing state transition
+
+@enduml

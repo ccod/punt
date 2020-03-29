@@ -1,0 +1,6 @@
+{:layout [:design
+          [:globals
+           #punt/file files/style-presets.iuml
+           #punt/file files/stylesheet.iuml]
+          [:diagrams
+           #punt/file files/example.puml]]}

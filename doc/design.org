@@ -1,0 +1,18 @@
+* Punt
+** commands for punt
+*** new
+creates a new file direcory for a new punt application
+: punt new greeting-site
+*** serve
+TODO make a pedestal server where each request is handled by a file unless it
+doesn't find the file in which case it loads 404.html or string equivelent if
+one isn't provided
+  - Assume everything is in directory public
+
+TODO while the server is running, create a
+Looking at using livereload
+: punt serve
+*** build
+: punt build
+*** read
+: punt read
