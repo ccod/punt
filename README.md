@@ -6,7 +6,7 @@ A command line tool for generating boilerplate project directories
 
 Proof of concept, and possibly one of many tools that I will use clojure
 to instrument a lot of things on my Arch Linux installation, which I am
-documenting here: (dotfiles)[https://github.com/ccod/dotfiles]
+documenting here: [dotfiles](https://github.com/ccod/dotfiles)
 
 GraalVM is a new tool that allows Java to generate optimized binaries, 
 Solving their coldstart problem. I get to use Clojure and edn in a context
